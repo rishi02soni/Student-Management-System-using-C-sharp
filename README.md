@@ -5,6 +5,11 @@ A simple **C# Console Application** that allows users to manage student records.
 This project demonstrates **Object-Oriented Programming (OOP)** concepts in C# along with basic CRUD operations.
 
 ---
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/sync/v2/D5627AQHO3K4wCs9-rg/articleshare-shrink_800/articleshare-shrink_800/0/1711217469444?e=2147483647&v=beta&t=TjLbbz8K1C0eDF898xGN8FWlVLoFBTBMQKY0CrubL4E" width="800"/>
+</p>>
+
+
 
 ## 🚀 Features
 
